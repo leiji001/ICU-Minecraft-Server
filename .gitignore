@@ -1,15 +1,5 @@
-# 游戏文件
-/.fabric
-/libraries
-/versions
-/eula.txt
-
-# 日志文件
+# 日志
 /logs
-/crash-reports
 
 # 其他
-/*.json
-/server.properties
-/dynmap
-/recordings
+/*.yml
