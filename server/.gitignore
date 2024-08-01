@@ -5,6 +5,7 @@
 /eula.txt
 
 # 日志文件
+/*.log
 /logs
 /crash-reports
 
