@@ -6,7 +6,6 @@
 [pca-protocol-v0.3.0-mc1.21.jar](https://github.com/Fallen-Breath/pca-protocol)  
 [carpet-tis-addition-v1.61.1-mc1.21.jar](https://www.mcmod.cn/class/5664.html)  
 [no-shield-delay-1.0.0.jar](https://www.mcmod.cn/class/15275.html)  
-[ledger-databases-1.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/ledger-databases)  
 [ledger-1.3.4.jar](https://www.mcmod.cn/class/5389.html)  
 [voicechat-fabric-1.21-2.5.17.jar](https://www.mcmod.cn/class/3693.html)  
 [NoChatReports-FABRIC-1.21-v2.8.0.jar](https://www.mcmod.cn/class/6756.html)  
