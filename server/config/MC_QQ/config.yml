@@ -20,7 +20,7 @@ reconnect_interval: 5
 websocket_server:
   enable: true
   host: "0.0.0.0"
-  port: 35118
+  port: 7891
 
 # 请在冒号后填写 WebSocket 地址。
 # 默认：ws://127.0.0.1:8080/minecraft/ws
@@ -57,7 +57,7 @@ server_name: "枫月"
 # Access Token
 # 用于连接时进行加密验证
 # 默认为空
-access_token: "nBLorWI6p5I4nkHvWySi0X6k"
+access_token: ""
 
 # 消息前缀
 # 消息前面添加的前缀（不包含Title、ActionBar）
