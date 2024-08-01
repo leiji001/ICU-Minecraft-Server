@@ -60,7 +60,7 @@ decoding: utf8
 # Minecraft RCON setting
 # If enabled, plugins can use rcon to query commands from the server
 rcon:
-  enable: false
+  enable: true
   address: 127.0.0.1
   port: 25575
   password: password
