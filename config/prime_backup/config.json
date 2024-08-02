@@ -60,7 +60,7 @@
     "scheduled_backup": {
         "enabled": true,
         "interval": null,
-        "crontab": "0 */12 * * *",
+        "crontab": "0 */1 * * *",
         "jitter": "10s",
         "reset_timer_on_backup": true,
         "require_online_players": true,
