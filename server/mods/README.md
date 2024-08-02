@@ -20,6 +20,7 @@
 
 苹果 [appleskin-fabric-mc1.21-3.0.2](https://www.mcmod.cn/class/744.html)  
 MiniHUD结构 [servux-fabric-1.21.0-0.2.0](https://www.mcmod.cn/class/5219.html)  
+模组自动装载 [automodpack-mc1.21-fabric-4.0.0-beta12](https://modrinth.com/mod/automodpack)
 
 ### 地毯
 

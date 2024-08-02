@@ -1,0 +1,28 @@
+{
+  "DO_NOT_CHANGE_IT": 1,
+  "modpackName": "枫月ICU模组整合",
+  "modpackHost": true,
+  "generateModpackOnStart": false,
+  "syncedFiles": [],
+  "allowEditsInFiles": [
+    "/options.txt",
+    "/config/*"
+  ],
+  "autoExcludeUnnecessaryFiles": true,
+  "requireAutoModpackOnClient": true,
+  "nagUnModdedClients": true,
+  "nagMessage": "本服务器使用 AutoModpack 自动获取模组",
+  "nagClickableMessage": "点击此处获取 AutoModpack",
+  "nagClickableLink": "https://modrinth.com/project/automodpack",
+  "autoExcludeServerSideMods": true,
+  "hostModpackOnMinecraftPort": true,
+  "hostIp": "",
+  "hostLocalIp": "",
+  "updateIpsOnEveryStart": false,
+  "hostPort": -1,
+  "reverseProxy": false,
+  "selfUpdater": false,
+  "acceptedLoaders": [
+    "fabric"
+  ]
+}

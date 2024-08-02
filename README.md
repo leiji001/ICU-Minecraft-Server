@@ -1,6 +1,7 @@
 # ICU-Minecraft-Server
 
-[模组列表](server/mods/README.md)  
+[自动安装模组列表](server/automodpack/host-modpack/main/mods/README.md)
+[服务器模组列表](server/mods/README.md)  
 [MCDR插件列表](plugins/README.md)  
 
 ## 指令表
@@ -17,4 +18,3 @@
 `/audioplayer url "https://example.com/myaudio.mp3"`通过链接上传音频，支持`.mp3``.wav`格式  
 `/audioplayer filebin`通过filebin上传音频
 `/audioplayer apply <ID>`将手上的唱片或山羊角设为自定义音频
-
