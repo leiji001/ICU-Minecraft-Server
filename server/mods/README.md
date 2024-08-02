@@ -10,6 +10,7 @@
 ## 优化
 
 锂 [lithium-fabric-mc1.21-0.12.7](https://www.mcmod.cn/class/2292.html)  
+氪 [krypton-0.2.8](https://www.mcmod.cn/class/3399.html)
 铁氧体磁芯 [ferritecore-7.0.0-fabric](https://www.mcmod.cn/class/3888.html)  
 现代化修复 [modernfix-fabric-5.18.3+mc1.21](https://www.mcmod.cn/class/8714.html)  
 生物清理 [letmedespawn-1.3.0](https://www.mcmod.cn/class/7415.html)  
