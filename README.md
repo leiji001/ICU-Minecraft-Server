@@ -1,6 +1,6 @@
 # ICU-Minecraft-Server
 
-[自动安装模组列表](server/automodpack/host-modpack/main/mods/README.md)
+[自动安装模组列表](server/automodpack/host-modpack/main/mods/README.md)  
 [服务器模组列表](server/mods/README.md)  
 [MCDR插件列表](plugins/README.md)  
 
