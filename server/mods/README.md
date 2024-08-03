@@ -37,7 +37,7 @@ pca协议 [pca-protocol-v0.3.0-mc1.21](https://github.com/Fallen-Breath/pca-prot
 自定义唱片 [audioplayer-fabric-1.21-1.10.2](https://www.mcmod.cn/class/9364.html)  
 MCQQ [MC_QQ_Fabric_1.21-2.7.2](https://github.com/17TheWord/MC_QQ_Fabric)  
 盾牌无延迟 [no-shield-delay-1.0.0](https://www.mcmod.cn/class/15275.html)  
-语音聊天 [voicechat-fabric-1.21-2.5.17](https://www.mcmod.cn/class/3693.html)  
+语音聊天 [voicechat-fabric-1.21-2.5.19](https://www.mcmod.cn/class/3693.html)  
 禁用聊天举报 [NoChatReports-FABRIC-1.21-v2.8.0](https://www.mcmod.cn/class/6756.html)  
 录像回放 [ServerReplay-1.1.1+mc1.21](https://www.mcmod.cn/class/13949.html)  
 墓碑 [graves-3.4.1+1.21](https://www.mcmod.cn/class/5082.html)  
