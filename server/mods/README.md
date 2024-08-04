@@ -14,12 +14,13 @@
 现代化修复 [modernfix-fabric-5.18.3+mc1.21](https://www.mcmod.cn/class/8714.html)  
 生物清理 [letmedespawn-1.3.0](https://www.mcmod.cn/class/7415.html)  
 蜜蜂优化 [brainierbees-1.6](https://modrinth.com/mod/brainier-bees)  
+C^2M 引擎 [c2me-fabric-mc1.21-0.2.0+alpha.11.107](https://modrinth.com/mod/c2me-fabric)  
 
 ## 辅助
 
 苹果 [appleskin-fabric-mc1.21-3.0.2](https://www.mcmod.cn/class/744.html)  
 MiniHUD结构 [servux-fabric-1.21.0-0.2.0](https://www.mcmod.cn/class/5219.html)  
-模组自动装载 [automodpack-mc1.21-fabric-4.0.0-beta12](https://modrinth.com/mod/automodpack)
+模组自动装载 [automodpack-mc1.21-fabric-4.0.0-beta12](https://modrinth.com/mod/automodpack)  
 
 ### 地毯
 
@@ -29,6 +30,7 @@ TIS [carpet-tis-addition-v1.61.1-mc1.21](https://www.mcmod.cn/class/5664.html)
 GCA [gugle-carpet-addition-mc1.21-2.9.0+build.51](https://www.mcmod.cn/class/7305.html)  
 AMS [Carpet-AMS-Addition-mc1.21-fabric-v2.45.1](https://www.mcmod.cn/class/8937.html)  
 pca协议 [pca-protocol-v0.3.0-mc1.21](https://github.com/Fallen-Breath/pca-protocol)  
+mini [minitweaks-1.21-1.5.0](https://modrinth.com/mod/minitweaks)  
 
 ## 功能
 
@@ -41,6 +43,9 @@ MCQQ [MC_QQ_Fabric_1.21-2.7.2](https://github.com/17TheWord/MC_QQ_Fabric)
 录像回放 [ServerReplay-1.1.1+mc1.21](https://www.mcmod.cn/class/13949.html)  
 墓碑 [graves-3.4.1+1.21](https://www.mcmod.cn/class/5082.html)  
 网页地图 [Dynmap-3.7-beta-6-fabric-1.21](https://www.mcmod.cn/class/5796.html)  
+炫酷字体 [ChromaAnvils-1.0.0+1.21](https://modrinth.com/mod/chromaanvils)  
+汤姆的简易存储 [toms_storage_fabric-1.21-2.0.9](https://modrinth.com/mod/toms-storage)  
+更多的桶 [metalbarrels-fabric-1.21-4](https://www.curseforge.com/minecraft/mc-mods/metal-barrels)  
 
 ## 反作弊
 
