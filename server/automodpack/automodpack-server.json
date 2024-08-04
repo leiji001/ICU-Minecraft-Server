@@ -4,15 +4,12 @@
   "modpackHost": true,
   "generateModpackOnStart": false,
   "syncedFiles": [],
-  "allowEditsInFiles": [
-    "/options.txt",
-    "/config/*"
-  ],
+  "allowEditsInFiles": [],
   "autoExcludeUnnecessaryFiles": true,
   "requireAutoModpackOnClient": true,
   "nagUnModdedClients": true,
-  "nagMessage": "本服务器使用 AutoModpack 自动获取模组",
-  "nagClickableMessage": "点击此处获取 AutoModpack",
+  "nagMessage": "This server provides dedicated modpack through AutoModpack!",
+  "nagClickableMessage": "Click here to get the AutoModpack!",
   "nagClickableLink": "https://modrinth.com/project/automodpack",
   "autoExcludeServerSideMods": true,
   "hostModpackOnMinecraftPort": true,

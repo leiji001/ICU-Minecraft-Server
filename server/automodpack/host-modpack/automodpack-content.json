@@ -6,20 +6,20 @@
   "mcVersion": "1.21",
   "list": [
     {
-      "file": "/mods/voicechat-fabric-1.21-2.5.17.jar",
-      "size": "6559233",
-      "type": "mod",
-      "editable": false,
-      "sha1": "67e4aa4633b0288fe09b9d1f3a727ea6dc14dd33",
-      "murmur": "526031253"
-    },
-    {
       "file": "/mods/ChatImage-1.2.5+1.21+fabric.jar",
       "size": "1091053",
       "type": "mod",
       "editable": false,
       "sha1": "1439eaa70ee44fc12ae750f68f1e05c11ff9c204",
       "murmur": "1349429585"
+    },
+    {
+      "file": "/mods/voicechat-fabric-1.21-2.5.19.jar",
+      "size": "6562951",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c8b05bacb5b5040130ef65498b0f9c41751636c8",
+      "murmur": "32667420"
     }
   ]
 }
