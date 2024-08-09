@@ -20,7 +20,7 @@ C^2M 引擎 [c2me-fabric-mc1.21-0.2.0+alpha.11.107](https://modrinth.com/mod/c2m
 
 苹果 [appleskin-fabric-mc1.21-3.0.2](https://www.mcmod.cn/class/744.html)  
 MiniHUD结构 [servux-fabric-1.21.0-0.2.0](https://www.mcmod.cn/class/5219.html)  
-模组自动装载 [automodpack-mc1.21-fabric-4.0.0-beta12](https://modrinth.com/mod/automodpack)  
+模组自动装载 [automodpack-mc1.21-fabric-4.0.0-beta13](https://modrinth.com/mod/automodpack)  
 
 ### 地毯
 

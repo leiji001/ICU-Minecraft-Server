@@ -42,23 +42,23 @@ globalExecutorParallelism = "default"
 	enforceSafeWorldRandomAccess = "default"
 
 [noTickViewDistance]
-	# (Default: true) Whether to enable no-tick view distance
-	enabled = "default"
-	# (Default: 2) No-tick view distance max concurrent chunk loads 
-	#  Lower this for a better latency and higher this for a faster loading
-	maxConcurrentChunkLoads = "default"
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
 	compatibilityMode = "default"
+	# (Default: 2) No-tick view distance max concurrent chunk loads 
+	#  Lower this for a better latency and higher this for a faster loading
+	maxConcurrentChunkLoads = "default"
+	# (Default: false) Whether to ensure correct chunks within normal render distance 
+	#  This will send chunks twice increasing network load
+	ensureChunkCorrectness = "default"
 	# (Default: true) Enable server-side support for extended render distance protocol (c2me:ext_render_distance_v1)
 	# This allows requesting render distances higher than 127 chunks from the server
 	# 
 	# Requires Fabric API (currently available)
 	# 
 	enableExtRenderDistanceProtocol = "default"
-	# (Default: false) Whether to ensure correct chunks within normal render distance 
-	#  This will send chunks twice increasing network load
-	ensureChunkCorrectness = "default"
+	# (Default: true) Whether to enable no-tick view distance
+	enabled = "default"
 	# (Default: 2048) Maximum view distance for no-tick view distance 
 	# 
 	# This allows you to specify the maximum view distance that no-tick view distance can support. 
@@ -72,9 +72,6 @@ globalExecutorParallelism = "default"
 	maxViewDistance = "default"
 
 [generalOptimizations]
-	# (Default: false) Whether to let async chunk request no longer block server thread
-	# Currently causes some unexplainable issues on 1.21, use with caution
-	optimizeAsyncChunkRequest = "default"
 	# (Default: 100000) The task interval of mid-tick chunk tasks in nanoseconds (-1 to disable)  
 	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
 	# to speed up chunk loading and generation  
@@ -87,6 +84,9 @@ globalExecutorParallelism = "default"
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
 	midTickChunkTasksInterval = "default"
+	# (Default: false) Whether to let async chunk request no longer block server thread
+	# Currently causes some unexplainable issues on 1.21, use with caution
+	optimizeAsyncChunkRequest = "default"
 
 	[generalOptimizations.autoSave]
 		# (Default: ENHANCED) Defines how auto save should be handled  
@@ -99,10 +99,13 @@ globalExecutorParallelism = "default"
 		mode = "default"
 
 [ioSystem]
-	# (Default: 8192) Soft limit for io worker nbt cache
-	chunkDataCacheSoftLimit = "default"
-	# (Default: 32678) Hard limit for io worker nbt cache
-	chunkDataCacheLimit = "default"
+	# (Default: true) Whether to use async chunk loading & unloading
+	async = "default"
+	# (Default: false) Whether to recover from errors when loading chunks 
+	#  This will cause errored chunk to be regenerated entirely, which may cause data loss 
+	#  Only applies when async chunk loading is enabled
+	# 
+	recoverFromErrors = "default"
 	# (Default: false) EXPERIMENTAL FEATURE
 	# This replaces the way your chunks are saved.
 	# Please keep regular backups of your world if you are using this feature,
@@ -114,20 +117,17 @@ globalExecutorParallelism = "default"
 	gcFreeChunkSerializer = "default"
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
-	# (Default: true) Whether to use async chunk loading & unloading
-	async = "default"
-	# (Default: false) Whether to recover from errors when loading chunks 
-	#  This will cause errored chunk to be regenerated entirely, which may cause data loss 
-	#  Only applies when async chunk loading is enabled
-	# 
-	recoverFromErrors = "default"
+	# (Default: 8192) Soft limit for io worker nbt cache
+	chunkDataCacheSoftLimit = "default"
+	# (Default: 32678) Hard limit for io worker nbt cache
+	chunkDataCacheLimit = "default"
 
 [threadedWorldGen]
-	# (Default: false) Whether to enable this feature
-	enabled = "default"
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
 	allowThreadedFeatures = "default"
+	# (Default: false) Whether to enable this feature
+	enabled = "default"
 
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen

@@ -1,6 +1,6 @@
 {
   "modpackName": "ICU-ModPack",
-  "automodpackVersion": "4.0.0-beta12",
+  "automodpackVersion": "4.0.0-beta13",
   "loader": "fabric",
   "loaderVersion": "0.15.11",
   "mcVersion": "1.21",
@@ -14,12 +14,12 @@
       "murmur": "1945664112"
     },
     {
-      "file": "/mods/voicechat-fabric-1.21-2.5.19.jar",
-      "size": "6562951",
+      "file": "/mods/toms_storage_fabric-1.21-2.0.9.jar",
+      "size": "1915093",
       "type": "mod",
       "editable": false,
-      "sha1": "c8b05bacb5b5040130ef65498b0f9c41751636c8",
-      "murmur": "32667420"
+      "sha1": "41e183d1ec04f5dde8547814c114f5f6ab924f44",
+      "murmur": "3402898510"
     },
     {
       "file": "/mods/ChatImage-1.2.5+1.21+fabric.jar",
@@ -30,12 +30,12 @@
       "murmur": "1349429585"
     },
     {
-      "file": "/mods/toms_storage_fabric-1.21-2.0.9.jar",
-      "size": "1915093",
+      "file": "/mods/voicechat-fabric-1.21-2.5.19.jar",
+      "size": "6562951",
       "type": "mod",
       "editable": false,
-      "sha1": "41e183d1ec04f5dde8547814c114f5f6ab924f44",
-      "murmur": "3402898510"
+      "sha1": "c8b05bacb5b5040130ef65498b0f9c41751636c8",
+      "murmur": "32667420"
     }
   ]
 }
