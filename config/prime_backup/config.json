@@ -50,6 +50,7 @@
         ],
         "ignored_files": [],
         "ignore_patterns": [
+            "ledger.sqlite",
             "**/session.lock"
         ],
         "follow_target_symlink": false,
