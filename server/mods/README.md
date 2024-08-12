@@ -29,7 +29,6 @@ MiniHUD结构 [servux-fabric-1.21.0-0.2.0](https://www.mcmod.cn/class/5219.html)
 TIS [carpet-tis-addition-v1.61.1-mc1.21](https://www.mcmod.cn/class/5664.html)  
 GCA [gugle-carpet-addition-mc1.21-2.9.0+build.51](https://www.mcmod.cn/class/7305.html)  
 AMS [Carpet-AMS-Addition-mc1.21-fabric-v2.45.1](https://www.mcmod.cn/class/8937.html)  
-pca协议 [pca-protocol-v0.3.0-mc1.21](https://github.com/Fallen-Breath/pca-protocol)  
 mini [minitweaks-1.21-1.5.0](https://modrinth.com/mod/minitweaks)  
 
 ## 功能
