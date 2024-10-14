@@ -4,16 +4,17 @@
 
 [fabric-api-0.100.4+1.21](https://modrinth.com/mod/fabric-api)  
 [fabric-language-kotlin-1.11.0+kotlin.2.0.0](https://modrinth.com/mod/fabric-language-kotlin)  
+[almanac-1.21.x-fabric-1.0.2](https://modrinth.com/mod/almanac-lib)  
 [mysql-jdbc-8.0.33+20230506-all](https://modrinth.com/plugin/mysql-jdbc/)
 
 ## 优化
 
-锂 [lithium-fabric-mc1.21-0.12.7](https://modrinth.com/mod/lithium)  
+锂 [lithium-fabric-mc1.21-0.13.1.jar](https://modrinth.com/mod/lithium)  
 铁氧体磁芯 [ferritecore-7.0.0-fabric](https://modrinth.com/mod/ferrite-core)  
-现代化修复 [modernfix-fabric-5.18.3+mc1.21](https://modrinth.com/mod/modernfix)  
-生物清理 [letmedespawn-1.3.0](https://modrinth.com/plugin/lmd)  
+现代化修复 [modernfix-fabric-5.19.1+mc1.21](https://modrinth.com/mod/modernfix)  
+生物清理 [letmedespawn-1.21.x-fabric-1.4.4](https://modrinth.com/plugin/lmd)  
 蜜蜂优化 [brainierbees-1.6](https://modrinth.com/mod/brainier-bees)  
-C^2M 引擎 [c2me-fabric-mc1.21-0.2.0+alpha.11.107](https://modrinth.com/mod/c2me-fabric)  
+C^2M 引擎 [c2me-fabric-mc1.21-0.2.0+alpha.11.109](https://modrinth.com/mod/c2me-fabric)  
 
 ## 辅助
 
@@ -34,9 +35,9 @@ MCQQ [MC_QQ_Fabric_1.21-2.7.2](https://github.com/17TheWord/MC_QQ_Fabric)
 ### 地毯
 
 本体 [fabric-carpet-1.21-1.4.147+v240613](https://modrinth.com/mod/carpet)  
-扩展 [carpet-extra-1.21-1.4.147](https://modrinth.com/mod/carpet-extra)  
-TIS [carpet-tis-addition-v1.61.1-mc1.21](https://modrinth.com/mod/carpet-tis-addition)  
-GCA [gugle-carpet-addition-mc1.21-2.9.0+build.51](https://modrinth.com/mod/gca)  
+扩展 [carpet-extra-1.21-1.4.148](https://modrinth.com/mod/carpet-extra)  
+TIS [carpet-tis-addition-v1.63.2-mc1.21.1](https://modrinth.com/mod/carpet-tis-addition)  
+GCA [gugle-carpet-addition-mc1.21-2.9.0+build.53](https://modrinth.com/mod/gca)  
 
 ## 反作弊
 
