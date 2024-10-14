@@ -28,7 +28,7 @@ working_directory: server
 # Example command for starting a Minecraft server:
 #   'java -Xms1G -Xmx2G -jar minecraft_server.jar nogui'                        (shell mode)
 #   ['java', '-Xms1G', '-Xmx2G', '-jar', 'minecraft_server.jar', 'nogui']       (exec mode)
-start_command: 'java -Xmx16G -jar fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar nogui'
+start_command: 'java -Xmx12G -jar fabric-server-mc.1.21-loader.0.16.7-launcher.1.0.1.jar nogui'
 
 
 # The handler to the specific way to parse the standard output text of the server and the correct command for server control
